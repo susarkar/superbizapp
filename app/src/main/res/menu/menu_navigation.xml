@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Home"
+        android:id="@+id/home"/>
+    <item
+        android:title="Invite and Earn"
+        android:id="@+id/invite"/>
+    <item
+        android:title="Earn More"
+        android:id="@+id/earnmore"/>
+    <item
+        android:title="Income Junction"
+        android:id="@+id/incomejunction"/>
+   <item
+        android:title="Shop and Earn"
+        android:id="@+id/shopandearn"/>
+    <item
+        android:title="Dashboard"
+        android:id="@+id/dashboard"/>
+    <item
+        android:title="Redeem"
+        android:id="@+id/redeem"/>
+    <item
+        android:title="Setting"
+        android:id="@+id/setting"/>
+    <item
+        android:title="Profile"
+        android:id="@+id/profile"/>
+
+</menu>
